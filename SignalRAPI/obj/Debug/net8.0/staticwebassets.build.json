@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LAbUap42tUPElcoqyIxvy0GWkFylhnXjudYKYurLum4=",
+  "Source": "SignalRAPI",
+  "BasePath": "_content/SignalRAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
