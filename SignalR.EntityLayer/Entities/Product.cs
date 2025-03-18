@@ -8,5 +8,11 @@
         public decimal ProductPrice { get; set; }
         public string ProductImageUrl { get; set; }
         public bool ProductStatus { get; set; }
+        
+        
+        
+        //iliskiler!
+        public int CategoryID { get; set; }
+        public Category Category { get; set; }
     }
 }

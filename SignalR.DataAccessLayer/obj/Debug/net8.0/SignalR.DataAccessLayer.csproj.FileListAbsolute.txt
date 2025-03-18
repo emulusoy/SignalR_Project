@@ -15,3 +15,6 @@ C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\obj\Debug\net8
 C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\obj\Debug\net8.0\SignalR.DataAccessLayer.pdb
 C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\obj\Debug\net8.0\SignalR.DataAccessLayer.genruntimeconfig.cache
 C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\obj\Debug\net8.0\ref\SignalR.DataAccessLayer.dll
+C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\obj\Debug\net8.0\SignalR.DataAccessLayer.sourcelink.json
+C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\bin\Debug\net8.0\SignalR.DtoLayer.dll
+C:\Users\eMu\source\repos\SignalR_Project\SignalR.DataAccessLayer\bin\Debug\net8.0\SignalR.DtoLayer.pdb

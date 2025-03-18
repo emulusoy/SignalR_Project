@@ -151,3 +151,8 @@ C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\refint\Sig
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\SignalRAPI.pdb
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\SignalRAPI.genruntimeconfig.cache
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\ref\SignalRAPI.dll
+C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\SignalR.DtoLayer.dll
+C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\SignalR.DtoLayer.pdb
+C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\SignalRAPI.sourcelink.json

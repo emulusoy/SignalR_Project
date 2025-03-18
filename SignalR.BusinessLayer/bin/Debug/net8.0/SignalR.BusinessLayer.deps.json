@@ -571,10 +571,19 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.14",
+          "SignalR.DtoLayer": "1.0.0",
           "SignalR.EntityLayer": "1.0.0"
         },
         "runtime": {
           "SignalR.DataAccessLayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SignalR.DtoLayer/1.0.0": {
+        "runtime": {
+          "SignalR.DtoLayer.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -982,6 +991,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "SignalR.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SignalR.DtoLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
