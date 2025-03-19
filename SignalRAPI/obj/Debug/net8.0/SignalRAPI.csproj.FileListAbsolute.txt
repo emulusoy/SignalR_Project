@@ -144,7 +144,6 @@ C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\staticweba
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalRAPI.props
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalRAPI.props
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\SignalRAPI.csproj.Up2Date
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\SignalRAPI.dll
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\refint\SignalRAPI.dll
@@ -156,3 +155,4 @@ C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\AutoMapper
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\SignalR.DtoLayer.dll
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\bin\Debug\net8.0\SignalR.DtoLayer.pdb
 C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\SignalRAPI.sourcelink.json
+C:\Users\eMu\source\repos\SignalR_Project\SignalRAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

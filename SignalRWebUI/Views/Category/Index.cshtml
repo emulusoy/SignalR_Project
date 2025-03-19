@@ -1,0 +1,53 @@
+﻿@model List<SignalRWebUI.Dtos.CategoryDtos.ResultCategoryDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Tables</h4>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Category LIST</div>
+					</div>
+					<div class="card-body">
+						<div class="card-sub">
+							You can perform category-related operations below. :
+						</div>
+						<table class="table mt-3">
+							<thead>
+								<tr>
+									<th scope="col">#</th>
+									<th scope="col">Name</th>
+									<th scope="col">Status</th>
+									<th scope="col">Edit</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<td>@item.CategoryID</td>
+										<td>@item.CategoryName</td>
+										<td>@item.CategoryStatus</td>
+										<td>
+											<a href="/Category/DeleteCategory/@item.CategoryID/" class="btn btn-outline-danger">Delete</a>
+											<a href="/Category/UpdateCategory/@item.CategoryID/" class="btn btn-outline-success">Update</a>
+
+										</td>
+									</tr>
+								}
+								
+							</tbody>
+						</table>
+						<a href="/Category/CreateCategory/" class="btn btn-outline-info">Add New</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
