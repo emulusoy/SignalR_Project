@@ -52,7 +52,7 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateTestimonial(UpdateTestimonialDto updateDto)
         {
-            _TestimonialService.TAdd(new Testimonial()
+            _TestimonialService.TUpdate(new Testimonial()
             {
                 TestimonialStatus = updateDto.TestimonialStatus,
                 TestimonialName = updateDto.TestimonialName,

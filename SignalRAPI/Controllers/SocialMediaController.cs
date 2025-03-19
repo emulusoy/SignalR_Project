@@ -50,7 +50,7 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateSocialMedia(UpdateSocialMediaDto updateDto)
         {
-            _SocialMediaService.TAdd(new SocialMedia()
+            _SocialMediaService.TUpdate(new SocialMedia()
             {
                 SocialMediaUrl = updateDto.SocialMediaUrl,
                 SocialMediaTitle = updateDto.SocialMediaTitle,

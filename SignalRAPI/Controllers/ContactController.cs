@@ -50,7 +50,7 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateContact(UpdateContactDto updateDto)
         {
-            _ContactService.TAdd(new Contact()
+            _ContactService.TUpdate(new Contact()
             {
                 ContactID = updateDto.ContactID,
                 ContactLocation = updateDto.ContactLocation,

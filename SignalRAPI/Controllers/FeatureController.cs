@@ -49,7 +49,7 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateFeature(UpdateFeatureDto updateDto)
         {
-            _FeatureService.TAdd(new Feature()
+            _FeatureService.TUpdate(new Feature()
             {
                 FeatureDescription = updateDto.FeatureDescription,
                 FeatureID = updateDto.FeatureID,    

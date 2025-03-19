@@ -72,6 +72,7 @@ namespace SignalRWebUI.Controllers
         public async Task<IActionResult> UpdateProduct(int id)
         {
 
+
             var client1 = _httpClientFactory.CreateClient();
             var responseMessage1 = await client1.GetAsync("https://localhost:7002/api/Category");
             var jsonData1 = await responseMessage1.Content.ReadAsStringAsync();
@@ -98,6 +99,7 @@ namespace SignalRWebUI.Controllers
         [HttpPost]
         public async Task<IActionResult> UpdateProduct(UpdateProductDto updateProductDto)
         {
+
             updateProductDto.ProductStatus = true;
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(updateProductDto);

@@ -78,14 +78,12 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateProduct(UpdateProductDto updateDto)
         {
-            _ProductService.TAdd(new Product()
+            _ProductService.TUpdate(new Product()
             {
                 ProductID = updateDto.ProductID,
-
                 ProductDescription = updateDto.ProductDescription,
                 ProductName = updateDto.ProductName,        
                 ProductStatus = updateDto.ProductStatus,    
-                
                  ProductImageUrl = updateDto.ProductImageUrl,
                  ProductPrice = updateDto.ProductPrice,
                  CategoryID=updateDto.CategoryID

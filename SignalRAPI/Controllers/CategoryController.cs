@@ -49,7 +49,7 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateCategory(UpdateCategoryDto updateDto)
         {
-            _categoryService.TAdd(new Category()
+            _categoryService.TUpdate(new Category()
             {
                 CategoryID = updateDto.CategoryID,
                 CategoryName = updateDto.CategoryName,

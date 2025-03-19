@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|solutionrelative:signalrapi\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,20 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T07:17:50.379Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "SignalRAPI\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "SignalRAPI\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:53:43.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Program.cs",
+              "RelativeToolTip": "SignalRWebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:50:22.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\About\\UpdateAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T15:49:18.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-19T15:47:35.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:19:25.879Z",
               "EditorCaption": ""
             }
           ]
