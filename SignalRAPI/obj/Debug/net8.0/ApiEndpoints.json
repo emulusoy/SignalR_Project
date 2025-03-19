@@ -471,22 +471,6 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.ProductController",
-    "Method": "DeleteProduct",
-    "RelativePath": "api/Product",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SignalRAPI.Controllers.ProductController",
     "Method": "UpdateProduct",
     "RelativePath": "api/Product",
     "HttpMethod": "PUT",
@@ -503,8 +487,24 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
     "Method": "GetProduct",
-    "RelativePath": "api/Product/GetProduct",
+    "RelativePath": "api/Product/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -512,7 +512,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

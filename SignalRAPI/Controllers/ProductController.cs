@@ -35,6 +35,7 @@ namespace SignalRAPI.Controllers
             var context =new  SignalRContext();
             var values = context.Products.Include(x => x.Category).Select(y => new ResultProductWithCategory
             {
+                
                 ProductDescription = y.ProductDescription,
                 ProductID = y.ProductID,
                 ProductImageUrl = y.ProductImageUrl,
@@ -50,41 +51,47 @@ namespace SignalRAPI.Controllers
         {
             _ProductService.TAdd(new Product()
             {
+                
                 ProductStatus = createDto.ProductStatus,
                 ProductName = createDto.ProductName,    
                 ProductDescription = createDto.ProductDescription,  
                 ProductPrice = createDto.ProductPrice,  
                 ProductImageUrl = createDto.ProductImageUrl,
+                CategoryID = createDto.CategoryID,
             });
 
             return Ok("Product section added successfully");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public ActionResult DeleteProduct(int id)
         {
             var value = _ProductService.TGetById(id);
             _ProductService.TDelete(value);
             return Ok("Product section deleted successfully!");
         }
-        [HttpPut]
-        public ActionResult UpdateProduct(UpdateProductDto updateDto)
-        {
-            _ProductService.TAdd(new Product()
-            {
-                ProductDescription = updateDto.ProductDescription,
-                ProductName = updateDto.ProductName,        
-                ProductStatus = updateDto.ProductStatus,    
-                 ProductID = updateDto.ProductID,
-                 ProductImageUrl = updateDto.ProductImageUrl,
-                 ProductPrice = updateDto.ProductPrice,
-            });
-            return Ok("Product section updated successfully!");
-        }
-        [HttpGet("GetProduct")]
+        [HttpGet("{id}")]
         public ActionResult GetProduct(int id)
         {
             var value = _ProductService.TGetById(id);
             return Ok(value);
         }
+        [HttpPut]
+        public ActionResult UpdateProduct(UpdateProductDto updateDto)
+        {
+            _ProductService.TAdd(new Product()
+            {
+                ProductID = updateDto.ProductID,
+
+                ProductDescription = updateDto.ProductDescription,
+                ProductName = updateDto.ProductName,        
+                ProductStatus = updateDto.ProductStatus,    
+                
+                 ProductImageUrl = updateDto.ProductImageUrl,
+                 ProductPrice = updateDto.ProductPrice,
+                 CategoryID=updateDto.CategoryID
+            });
+            return Ok("Product section updated successfully!");
+        }
+
     }
 }

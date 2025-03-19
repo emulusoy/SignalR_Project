@@ -1,0 +1,56 @@
+﻿@model CreateProductDtop
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">Product Operations</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">New Product Entry</div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="productname">Product name</label>
+                                <input type="text" class="form-control" asp-for="ProductName" id="productname">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="productprice">Product price</label>
+                                <input type="text" class="form-control" asp-for="ProductPrice" id="productprice">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="productimageurl">Product image url</label>
+                                <input type="text" class="form-control" asp-for="ProductImageUrl" id="productimageurl">
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="productprice">Product Category</label>
+                                @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.v, new { @class = "form-control" })
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="productdescription">Product description</label>
+                                <input type="text" class="form-control" asp-for="ProductDescription" id="productdescription">
+                            </div>
+                        </div>
+                        <div class="card-action">
+                            <button class="btn btn-primary">ADD</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

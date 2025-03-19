@@ -719,26 +719,6 @@
           }
         }
       },
-      "delete": {
-        "tags": [
-          "Product"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      },
       "put": {
         "tags": [
           "Product"
@@ -781,7 +761,28 @@
         }
       }
     },
-    "/api/Product/GetProduct": {
+    "/api/Product/{id}": {
+      "delete": {
+        "tags": [
+          "Product"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
       "get": {
         "tags": [
           "Product"
@@ -789,7 +790,8 @@
         "parameters": [
           {
             "name": "id",
-            "in": "query",
+            "in": "path",
+            "required": true,
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -1166,6 +1168,10 @@
           },
           "productStatus": {
             "type": "boolean"
+          },
+          "categoryID": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -1377,6 +1383,10 @@
           },
           "productStatus": {
             "type": "boolean"
+          },
+          "categoryID": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
