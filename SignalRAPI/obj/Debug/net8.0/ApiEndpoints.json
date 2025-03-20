@@ -101,22 +101,6 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.BookingController",
-    "Method": "DeleteBooking",
-    "RelativePath": "api/Booking",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SignalRAPI.Controllers.BookingController",
     "Method": "UpdateBooking",
     "RelativePath": "api/Booking",
     "HttpMethod": "PUT",
@@ -133,8 +117,24 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.BookingController",
+    "Method": "DeleteBooking",
+    "RelativePath": "api/Booking/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.BookingController",
     "Method": "GetBooking",
-    "RelativePath": "api/Booking/GetBooking",
+    "RelativePath": "api/Booking/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -142,7 +142,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

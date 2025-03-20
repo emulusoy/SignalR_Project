@@ -1,0 +1,62 @@
+﻿@model List<ResultBookingDto>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+	int count = 0;
+}
+
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Tables</h4>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Booking LIST</div>
+					</div>
+					<div class="card-body">
+						<div class="card-sub">
+							You can perform Booking-related operations below. :
+						</div>
+						<table class="table mt-3">
+							<thead>
+								<tr>
+									<th scope="col">#</th>
+									<th scope="col">Name</th>
+									<th scope="col">Phone</th>
+									<th scope="col">Person Count</th>
+									<th scope="col">Rezervation Status</th>
+									<th scope="col">Edit</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									count++;
+									<tr>
+										<td>@count</td>
+										<td>@item.BookingName</td>
+										<td>@item.BookingPhone</td>
+										<td>@item.BookingPersonCount</td>
+										<td>Reservation received</td>
+										<td>
+											<a href="/Booking/DeleteBooking/@item.BookingID/" class="btn btn-outline-danger">Delete</a>
+											<a href="/Booking/UpdateBooking/@item.BookingID/" class="btn btn-outline-success">Update</a>
+
+										</td>
+									</tr>
+								}
+
+							</tbody>
+						</table>
+						<a href="/Booking/CreateBooking/" class="btn btn-outline-info">Add New</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+

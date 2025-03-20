@@ -1,0 +1,49 @@
+﻿@model CreateBookingDto
+@{
+    ViewData["Title"] = "CreateBooking";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">Booking Operations</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">New Booking entry </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="Bookingname">Enter Reservation Name</label>
+                                <input type="text" class="form-control" asp-for="BookingName" id="Bookingname" />
+                            </div>
+                            <div class="form-group">
+                                <label for="BookingPhone">Enter Reservation Phone</label>
+                                <input type="text" class="form-control" asp-for="BookingPhone" id="BookingPhone" />
+                            </div>
+                            <div class="form-group">
+                                <label for="BookingMail">Enter Reservation Mail</label>
+                                <input type="email" class="form-control" asp-for="BookingMail" id="BookingMail" />
+                            </div>
+                            <div class="form-group">
+                                <label for="BookingPersonCount">Enter Reservation Person Count</label>
+                                <input type="text" class="form-control" asp-for="BookingPersonCount" id="BookingPersonCount" />
+                            </div>
+                            <div class="form-group">
+                                <label for="Date">Reservation Date?</label>
+                                <input type="text" class="form-control" asp-for="BookingDate" id="Date" />
+                            </div>
+                        </div>
+                        <div class="card-action">
+                            <button class="btn btn-primary">Enter</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
