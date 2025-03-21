@@ -40,12 +40,18 @@ namespace SignalRAPI.Controllers
 
             return Ok("SocialMedia section added successfully");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public ActionResult DeleteSocialMedia(int id)
         {
             var value = _SocialMediaService.TGetById(id);
             _SocialMediaService.TDelete(value);
             return Ok("SocialMedia section deleted successfully!");
+        }
+        [HttpGet("{id}")]
+        public ActionResult GetSocialMedia(int id)
+        {
+            var value = _SocialMediaService.TGetById(id);
+            return Ok(value);
         }
         [HttpPut]
         public ActionResult UpdateSocialMedia(UpdateSocialMediaDto updateDto)
@@ -59,11 +65,6 @@ namespace SignalRAPI.Controllers
             });
             return Ok("SocialMedia section updated successfully!");
         }
-        [HttpGet("GetSocialMedia")]
-        public ActionResult GetSocialMedia(int id)
-        {
-            var value = _SocialMediaService.TGetById(id);
-            return Ok(value);
-        }
+        
     }
 }

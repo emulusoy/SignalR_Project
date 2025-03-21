@@ -397,22 +397,6 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.FeatureController",
-    "Method": "DeleteFeature",
-    "RelativePath": "api/Feature",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SignalRAPI.Controllers.FeatureController",
     "Method": "UpdateFeature",
     "RelativePath": "api/Feature",
     "HttpMethod": "PUT",
@@ -429,8 +413,24 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.FeatureController",
+    "Method": "DeleteFeature",
+    "RelativePath": "api/Feature/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.FeatureController",
     "Method": "GetFeature",
-    "RelativePath": "api/Feature/GetFeature",
+    "RelativePath": "api/Feature/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -438,7 +438,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -555,22 +555,6 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.SocialMediaController",
-    "Method": "DeleteSocialMedia",
-    "RelativePath": "api/SocialMedia",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SignalRAPI.Controllers.SocialMediaController",
     "Method": "UpdateSocialMedia",
     "RelativePath": "api/SocialMedia",
     "HttpMethod": "PUT",
@@ -587,8 +571,24 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.SocialMediaController",
+    "Method": "DeleteSocialMedia",
+    "RelativePath": "api/SocialMedia/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.SocialMediaController",
     "Method": "GetSocialMedia",
-    "RelativePath": "api/SocialMedia/GetSocialMedia",
+    "RelativePath": "api/SocialMedia/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -596,7 +596,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
