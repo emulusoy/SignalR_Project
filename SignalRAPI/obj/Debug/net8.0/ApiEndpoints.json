@@ -249,22 +249,6 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.ContactController",
-    "Method": "DeleteContact",
-    "RelativePath": "api/Contact",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SignalRAPI.Controllers.ContactController",
     "Method": "UpdateContact",
     "RelativePath": "api/Contact",
     "HttpMethod": "PUT",
@@ -281,8 +265,24 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.ContactController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/Contact/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ContactController",
     "Method": "GetContact",
-    "RelativePath": "api/Contact/GetContact",
+    "RelativePath": "api/Contact/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -290,7 +290,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -323,22 +323,6 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.DiscountController",
-    "Method": "DeleteDiscount",
-    "RelativePath": "api/Discount",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SignalRAPI.Controllers.DiscountController",
     "Method": "UpdateDiscount",
     "RelativePath": "api/Discount",
     "HttpMethod": "PUT",
@@ -355,8 +339,24 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.DiscountController",
+    "Method": "DeleteDiscount",
+    "RelativePath": "api/Discount/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.DiscountController",
     "Method": "GetDiscount",
-    "RelativePath": "api/Discount/GetDiscount",
+    "RelativePath": "api/Discount/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -364,7 +364,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

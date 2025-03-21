@@ -1,0 +1,64 @@
+﻿@model List<ResultDiscountDto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Tables</h4>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Discount LIST</div>
+					</div>
+					<div class="card-body">
+						<div class="card-sub">
+							You can perform Discount-related operations below. :
+						</div>
+						<table class="table mt-3">
+							<thead>
+								<tr>
+									<th scope="col">#</th>
+									<th scope="col">Title</th>
+									<th scope="col">Amount</th>
+									<th scope="col">Description</th>
+									<th scope="col">Image Url</th>
+									
+									<th scope="col">Edit</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<td>@item.DiscountID</td>
+										<td>@item.DiscountTitle</td>
+										<td>@item.DiscountAmount</td>
+										<td>@item.DiscountDescription</td>
+										<td>@item.DiscountImageUrl</td>
+										<td>
+											<a href="#" class="btn btn-outline-info">Status</a>
+
+											<a href="/Discount/DeleteDiscount/@item.DiscountID/" class="btn btn-outline-danger">Delete</a>
+											<a href="/Discount/UpdateDiscount/@item.DiscountID/" class="btn btn-outline-success">Update</a>
+
+										</td>
+									</tr>
+								}
+
+							</tbody>
+						</table>
+						<a href="/Discount/CreateDiscount/" class="btn btn-outline-info">Add New</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+

@@ -1,0 +1,62 @@
+﻿@model List<ResultContactDto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Home Page Contact Us Operations</h4>
+		<div class="row">
+			<div class="col-md-12">
+
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Contact List Page</div>
+					</div>
+					<div class="card-body">
+						<div class="card-sub">
+							You can perform operations related to the Contact Us field. Remember to create only 1 Contact us field for theme integrity.
+						</div>
+						<table class="table mt-3">
+							<thead>
+								<tr>
+									<th scope="col">#####</th>
+									<th scope="col">Location</th>
+									<th scope="col">Phone</th>
+									<th scope="col">Mail</th>
+									<th scope="col">Description</th>
+									<th scope="col">Edit</th>
+
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									<tr>
+										<td>@item.ContactID</td>
+										<td>@item.ContactLocation</td>
+										<td>@item.ContactPhone</td>
+										<td>@item.ContactMail</td>
+										<td>@item.FooterDescription</td>
+										<td>
+											<a href="/Contact/DeleteContact/@item.ContactID" class="btn btn-outline-danger">Delete</a>
+											<a href="/Contact/UpdateContact/@item.ContactID" class="btn btn-outline-success">Update</a>
+										</td>
+
+									</tr>
+								}
+							</tbody>
+						</table>
+						<a href="/Contact/CreateContact/" class="btn btn-outline-primary">New Description</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
