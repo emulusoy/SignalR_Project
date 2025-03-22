@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\socialmedia\\updatesocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\socialmedia\\updatesocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\socialmedia\\createsocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\socialmedia\\createsocialmedia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|solutionrelative:signalrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,13 +22,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T07:17:50.379Z",
               "IsPinned": true,
@@ -41,27 +37,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateSocialMedia.cshtml",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "RelativeToolTip": "SignalRWebUI\\Views\\SocialMedia\\UpdateSocialMedia.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T21:33:25.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateSocialMedia.cshtml",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "RelativeToolTip": "SignalRWebUI\\Views\\SocialMedia\\CreateSocialMedia.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-21T21:32:28.94Z",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SignalRAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SignalRAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:17:54.934Z",
               "EditorCaption": ""
             }
           ]

@@ -23,6 +23,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=SocialMedia}/{action=Index}/{id?}");
+    pattern: "{controller=Statistic}/{action=Index}/{id?}");
 
 app.Run();

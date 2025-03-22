@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRWebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SignalRWebUI.tnwm4n71f5.bundle.scp.css"
+    },
+    {
       "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\admin\\LICENSE",
       "PackagePath": "staticwebassets\\admin"
     },
@@ -547,6 +551,14 @@
     {
       "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRWebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

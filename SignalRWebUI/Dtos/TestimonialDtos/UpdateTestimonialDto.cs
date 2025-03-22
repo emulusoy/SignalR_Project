@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SignalR.DtoLayer.TestimonialDto
+namespace SignalRWebUI.Dtos.TestimonialDtos
 {
     public class UpdateTestimonialDto
     {

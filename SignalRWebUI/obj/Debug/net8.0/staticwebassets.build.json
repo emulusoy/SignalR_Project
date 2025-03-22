@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HT0hVYVgncTYJX3K4gH79shax3AThafLg7ctq1LJaOw=",
+  "Hash": "3wiYF1cLZ96Gtq3Ck2Wrh/bC4IIRHyiArPyusn6ck2g=",
   "Source": "SignalRWebUI",
   "BasePath": "_content/SignalRWebUI",
   "Mode": "Default",
@@ -16,6 +16,48 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SignalRWebUI.styles.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "SignalRWebUI#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "tnwm4n71f5",
+      "Integrity": "J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SignalRWebUI.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRWebUI.bundle.scp.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "SignalRWebUI#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "tnwm4n71f5",
+      "Integrity": "J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRWebUI.bundle.scp.css"
+    },
     {
       "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\admin\\assets\\css\\bootstrap.min.css",
       "SourceId": "SignalRWebUI",
@@ -2892,6 +2934,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "microsoft/signalr/dist/browser/signalr#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ikgtc44dzg",
+      "Integrity": "IpWrjp+iEzxJXyN6e4OsE8l7E4mXddX692fH80E+h3U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "microsoft/signalr/dist/browser/signalr.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "533l9jid3v",
+      "Integrity": "H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     }
   ],
   "Endpoints": [
@@ -14126,6 +14210,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "microsoft/signalr/dist/browser/signalr.ikgtc44dzg.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IpWrjp+iEzxJXyN6e4OsE8l7E4mXddX692fH80E+h3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikgtc44dzg"
+        },
+        {
+          "Name": "label",
+          "Value": "microsoft/signalr/dist/browser/signalr.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IpWrjp+iEzxJXyN6e4OsE8l7E4mXddX692fH80E+h3U="
+        }
+      ]
+    },
+    {
+      "Route": "microsoft/signalr/dist/browser/signalr.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IpWrjp+iEzxJXyN6e4OsE8l7E4mXddX692fH80E+h3U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IpWrjp+iEzxJXyN6e4OsE8l7E4mXddX692fH80E+h3U="
+        }
+      ]
+    },
+    {
+      "Route": "microsoft/signalr/dist/browser/signalr.min.533l9jid3v.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "533l9jid3v"
+        },
+        {
+          "Name": "label",
+          "Value": "microsoft/signalr/dist/browser/signalr.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co="
+        }
+      ]
+    },
+    {
+      "Route": "microsoft/signalr/dist/browser/signalr.min.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co="
+        }
+      ]
+    },
+    {
+      "Route": "SignalRWebUI.bundle.scp.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRWebUI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4="
+        }
+      ]
+    },
+    {
+      "Route": "SignalRWebUI.styles.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SignalRWebUI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4="
+        }
+      ]
+    },
+    {
+      "Route": "SignalRWebUI.tnwm4n71f5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SignalRWebUI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tnwm4n71f5"
+        },
+        {
+          "Name": "label",
+          "Value": "SignalRWebUI.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4="
+        }
+      ]
+    },
+    {
+      "Route": "SignalRWebUI.tnwm4n71f5.styles.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SignalRWebUI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1129"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 23:57:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tnwm4n71f5"
+        },
+        {
+          "Name": "label",
+          "Value": "SignalRWebUI.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J8GJ0FZ5SLeycrD2+J3vID+MYbTki8lGDdYBUysx+J4="
         }
       ]
     }

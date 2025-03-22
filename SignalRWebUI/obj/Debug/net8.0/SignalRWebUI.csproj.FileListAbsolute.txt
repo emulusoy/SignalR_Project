@@ -228,3 +228,6 @@ C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\obj\Debug\net8.0\SignalRW
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\obj\Debug\net8.0\SignalRWebUI.RazorAssemblyInfo.cache
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\obj\Debug\net8.0\SignalRWebUI.RazorAssemblyInfo.cs
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\libman.json
+C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\obj\Debug\net8.0\scopedcss\projectbundle\SignalRWebUI.bundle.scp.css

@@ -1,0 +1,51 @@
+﻿@model CreateTestimonialDto
+
+@{
+    ViewData["Title"] = "CreateTestimonial";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">Testimonial Operations</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">New Testimonial entry </div>
+                        </div>
+                        
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="Testimonialname">Enter Reservation Name</label>
+                                <input type="text" class="form-control" asp-for="TestimonialName" id="Testimonialname" />
+                            </div>
+                            <div class="form-group">
+                                <label for="TestimonialTitle">Enter Testimonial Title</label>
+                                <input type="text" class="form-control" asp-for="TestimonialTitle" id="TestimonialTitle" />
+                            </div>
+                            <div class="form-group">
+                                <label for="TestimonialComment">Enter Testimonial Comment</label>
+                                <input type="email" class="form-control" asp-for="TestimonialComment" id="TestimonialComment" />
+                            </div>
+                            <div class="form-group">
+                                <label for="TestimonialImageUrl">Enter TestimonialImageUrl</label>
+                                <input type="text" class="form-control" asp-for="TestimonialImageUrl" id="TestimonialImageUrl" />
+                            </div>
+                            <div class="form-group">
+                                <label for="TestimonialStatus">Reservation TestimonialStatus</label>
+                                <input type="text" class="form-control" asp-for="TestimonialStatus" id="TestimonialStatus" />
+                            </div>
+                        </div>
+                        <div class="card-action">
+                            <button class="btn btn-primary">Enter</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

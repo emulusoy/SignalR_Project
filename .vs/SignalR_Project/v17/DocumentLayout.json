@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|solutionrelative:signalrapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,20 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-19T07:17:50.379Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SignalRAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SignalRAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:17:54.934Z",
               "EditorCaption": ""
             }
           ]

@@ -5,8 +5,24 @@ using SignalR.BusinessLayer.Concrete;
 using SignalR.DataAccessLayer.Abstract;
 using SignalR.DataAccessLayer.Concrete;
 using SignalR.DataAccessLayer.EntityFramework;
+using SignalRAPI.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
+
+//Cors bolumu
+builder.Services.AddCors(opt =>
+{
+    opt.AddPolicy("CorsPolicy", builder =>
+    {
+        builder.AllowAnyHeader()//Basliga izin ver
+        .AllowAnyMethod()//herhabngi bir metoda izin ver
+        .SetIsOriginAllowed((host) => true)//Disaridan gelen herhangi bir saglayiciya izin ver
+        .AllowCredentials();//Disaridan herhangi bir kimlige izin verir
+    });
+});
+builder.Services.AddSignalR();
+
+
 
 // Add services to the container.
 
@@ -59,11 +75,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseCors("CorsPolicy");
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.MapHub<SignalRHub>("/signalrhub");//bir yere istekte bulunuyorsunuz diyelimki port2000swagger/index/category gibi seyler yerine ben direk 2000/signalrhub a gidecegim buna yarara  
 
 app.Run();
