@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SignalR.BusinessLayer.Abstract;
 using SignalR.DtoLayer.DiscountDto;
-using SignalR.DtoLayer.DiscountDto;
 using SignalR.EntityLayer.Entities;
 
 namespace SignalRAPI.Controllers

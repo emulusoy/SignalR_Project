@@ -222,6 +222,36 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SignalRAPI.Controllers.CategoryController",
+    "Method": "ActiveCategoryCount",
+    "RelativePath": "api/Category/ActiveCategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.CategoryController",
+    "Method": "CategoryCount",
+    "RelativePath": "api/Category/CategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.CategoryController",
+    "Method": "PassiveCategoryCount",
+    "RelativePath": "api/Category/PassiveCategoryCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SignalRAPI.Controllers.ContactController",
     "Method": "ContactList",
     "RelativePath": "api/Contact",
@@ -444,6 +474,36 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SignalRAPI.Controllers.OrdersController",
+    "Method": "ActiveOrderCount",
+    "RelativePath": "api/Orders/ActiveOrderCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.OrdersController",
+    "Method": "LastOrderPrice",
+    "RelativePath": "api/Orders/LastOrderPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.OrdersController",
+    "Method": "TotalOrderCount",
+    "RelativePath": "api/Orders/TotalOrderCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SignalRAPI.Controllers.ProductController",
     "Method": "ProductList",
     "RelativePath": "api/Product",
@@ -519,8 +579,78 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "ProductCount",
+    "RelativePath": "api/Product/ProductCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
     "Method": "ProductListWithCategory",
     "RelativePath": "api/Product/ProductListWithCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "ProductNameByMaxPrice",
+    "RelativePath": "api/Product/ProductNameByMaxPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "ProductNameByMinPrice",
+    "RelativePath": "api/Product/ProductNameByMinPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "ProductPriceAvg",
+    "RelativePath": "api/Product/ProductPriceAvg",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "ProductPriceByHamburger",
+    "RelativePath": "api/Product/ProductPriceByHamburger",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "TProductCountByCategoryNameDrink",
+    "RelativePath": "api/Product/TProductCountByCategoryNameDrink",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.ProductController",
+    "Method": "TProductCountByCategoryNameHamburger",
+    "RelativePath": "api/Product/TProductCountByCategoryNameHamburger",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

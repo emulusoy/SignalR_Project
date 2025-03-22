@@ -30,5 +30,42 @@ namespace SignalR.DataAccessLayer.EntityFramework
             using var context=new SignalRContext(); 
             return context.Products.Count();
         }
+
+        public int ProductCountByCategoryNameDrink()
+        {
+            var context = new SignalRContext();
+            return context.Products.Where(x=>x.CategoryID==(context.Categories.Where(y=>y.CategoryName=="Hamburger").Select(z=>z.CategoryID).FirstOrDefault())).Count();
+            
+        }
+
+        public int ProductCountByCategoryNameHamburger()
+        {
+            var context = new SignalRContext();
+            return context.Products.Where(x => x.CategoryID == (context.Categories.Where(y => y.CategoryName == "Drink").Select(z => z.CategoryID).FirstOrDefault())).Count();
+        }
+
+        public string ProductNameByMaxPrice()
+        {
+            var context = new SignalRContext();
+            return context.Products.Where(x=>x.ProductPrice==(context.Products.Max(y=>y.ProductPrice))).Select(z => z.ProductName).FirstOrDefault();
+        }
+
+        public string ProductNameByMinPrice()
+        {
+            var context = new SignalRContext();
+            return context.Products.Where(x => x.ProductPrice == (context.Products.Min(y => y.ProductPrice))).Select(z => z.ProductName).FirstOrDefault();
+        }
+
+        public decimal ProductPriceAvg()
+        {
+            using var context = new SignalRContext();
+            return context.Products.Average(x => x.ProductPrice);
+        }
+
+        public decimal ProductPriceByHamburger()
+        {
+            using var context = new SignalRContext();
+            return context.Products.Where(x => x.Category.CategoryName == "Hamburger").Select(y => y.ProductPrice).Average();
+        }
     }
 }
