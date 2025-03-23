@@ -725,6 +725,18 @@
         }
       }
     },
+    "/TotalMoneyCaseAmount": {
+      "get": {
+        "tags": [
+          "MoneyCase"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Orders/TotalOrderCount": {
       "get": {
         "tags": [
@@ -750,6 +762,18 @@
       }
     },
     "/api/Orders/LastOrderPrice": {
+      "get": {
+        "tags": [
+          "Orders"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Orders/TodayTotalPrice": {
       "get": {
         "tags": [
           "Orders"
