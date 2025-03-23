@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3wiYF1cLZ96Gtq3Ck2Wrh/bC4IIRHyiArPyusn6ck2g=",
+  "Hash": "6wz+us/hvraYR5N+Gvupxk6gpm04I9kY6ieN72TDp4U=",
   "Source": "SignalRWebUI",
   "BasePath": "_content/SignalRWebUI",
   "Mode": "Default",
@@ -1695,6 +1695,678 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\about.html",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/about#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2yfdf9nvr",
+      "Integrity": "RXPyd82k2cNcavDvM8jBJMlYQh8/t1HkpM7YXaH9upI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\about.html"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\book.html",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/book#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gcex133j7t",
+      "Integrity": "ILzHBKWuhfLqjKsupiflbXwcDG78eP/PVofny0bvDYY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\book.html"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\bootstrap.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zuvuklkj3l",
+      "Integrity": "Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\font-awesome.min.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/css/font-awesome.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rf9f4pws8w",
+      "Integrity": "eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\css\\font-awesome.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\responsive.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/css/responsive#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pbup2pr0gb",
+      "Integrity": "xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\css\\responsive.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ezrc3ek9g",
+      "Integrity": "GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css.map",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/css/style.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yahiwgkxwu",
+      "Integrity": "Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\css\\style.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.scss",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/css/style#[.{fingerprint}]?.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ognq4o982",
+      "Integrity": "IF7fF6IFxeRTarh1GYwcUYzcx68yiP34f14F4S9rhUM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\css\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/fonts/fontawesome-webfont#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yex6mt8az7",
+      "Integrity": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/fonts/fontawesome-webfont#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eyrbpue749",
+      "Integrity": "ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff2",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/fonts/fontawesome-webfont#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2hr3gl3r5x",
+      "Integrity": "Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\about-img.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/about-img#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6q6ve1nrg4",
+      "Integrity": "MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\about-img.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client1.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/client1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k13beupcue",
+      "Integrity": "KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\client1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client2.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/client2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4eo462ldal",
+      "Integrity": "hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\client2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f1.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oh8cfn8tcd",
+      "Integrity": "BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f1.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f2.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktovtbb25v",
+      "Integrity": "aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f2.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f3.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3uqngtqwn",
+      "Integrity": "4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f3.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f4.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6kxzkjmezk",
+      "Integrity": "WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f4.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f5.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qquuf1u58q",
+      "Integrity": "IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f5.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f6.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zlipdfzboh",
+      "Integrity": "iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f6.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f7.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mp1grcj9z",
+      "Integrity": "7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f7.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f8.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f8#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vuszxf9eko",
+      "Integrity": "KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f8.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f9.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/f9#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2zme3h13sw",
+      "Integrity": "zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\f9.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\favicon.png",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ozdcrmt9b",
+      "Integrity": "J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\hero-bg.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/hero-bg#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bks7niomeb",
+      "Integrity": "W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\hero-bg.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o1.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/o1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rkigy015z7",
+      "Integrity": "9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\o1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o2.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/images/o2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48jshhobi3",
+      "Integrity": "rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\images\\o2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\index.html",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xn1hjbft2x",
+      "Integrity": "U67ifNb/QjWiOqH9xeTmOqXwHbLuG/zyGBDhIY1ljvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\bootstrap.js",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ikbvthl94z",
+      "Integrity": "Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\custom.js",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/js/custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "95dnrx32fu",
+      "Integrity": "TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\jquery-3.4.1.min.js",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/js/jquery-3.4.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0h1hq80lqs",
+      "Integrity": "TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\menu.html",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "eMuUI/menu#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ar6op5pqch",
+      "Integrity": "yspNvJWgeTTiNydqz96YaxfiwsnAQ60uJ+yuVdRzqsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\eMuUI\\menu.html"
     },
     {
       "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\favicon.ico",
@@ -9372,6 +10044,2630 @@
         {
           "Name": "integrity",
           "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/about.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RXPyd82k2cNcavDvM8jBJMlYQh8/t1HkpM7YXaH9upI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RXPyd82k2cNcavDvM8jBJMlYQh8/t1HkpM7YXaH9upI="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/about.t2yfdf9nvr.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RXPyd82k2cNcavDvM8jBJMlYQh8/t1HkpM7YXaH9upI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2yfdf9nvr"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/about.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RXPyd82k2cNcavDvM8jBJMlYQh8/t1HkpM7YXaH9upI="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/book.gcex133j7t.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\book.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ILzHBKWuhfLqjKsupiflbXwcDG78eP/PVofny0bvDYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gcex133j7t"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/book.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ILzHBKWuhfLqjKsupiflbXwcDG78eP/PVofny0bvDYY="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/book.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\book.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ILzHBKWuhfLqjKsupiflbXwcDG78eP/PVofny0bvDYY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 15:40:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ILzHBKWuhfLqjKsupiflbXwcDG78eP/PVofny0bvDYY="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/bootstrap.zuvuklkj3l.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192348"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zuvuklkj3l"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/font-awesome.min.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/font-awesome.min.rf9f4pws8w.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\font-awesome.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31000"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rf9f4pws8w"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/css/font-awesome.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/responsive.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/responsive.pbup2pr0gb.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\responsive.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pbup2pr0gb"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/css/responsive.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xVsC7pqx2JYYQ2599Gu1Amv713RWxE8vQXtkcex22tM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/style.0ezrc3ek9g.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezrc3ek9g"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/style.0ognq4o982.scss",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IF7fF6IFxeRTarh1GYwcUYzcx68yiP34f14F4S9rhUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ognq4o982"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/css/style.scss"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IF7fF6IFxeRTarh1GYwcUYzcx68yiP34f14F4S9rhUM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/style.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLxvzLVepZewOvSm5YPidw4HMkawGqeSONQ+I3GIXxw="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/style.css.map",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/style.css.yahiwgkxwu.map",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yahiwgkxwu"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/css/style.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gghnfg53TE4w17gybYG/f2YrVd+KPIi9AJ5kCmR0Y6Y="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/css/style.scss",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.scss",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IF7fF6IFxeRTarh1GYwcUYzcx68yiP34f14F4S9rhUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IF7fF6IFxeRTarh1GYwcUYzcx68yiP34f14F4S9rhUM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/fonts/fontawesome-webfont.2hr3gl3r5x.woff2",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hr3gl3r5x"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/fonts/fontawesome-webfont.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/fonts/fontawesome-webfont.eyrbpue749.woff",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eyrbpue749"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/fonts/fontawesome-webfont.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/fonts/fontawesome-webfont.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/fonts/fontawesome-webfont.woff",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/fonts/fontawesome-webfont.woff2",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77160"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/fonts/fontawesome-webfont.yex6mt8az7.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yex6mt8az7"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/fonts/fontawesome-webfont.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/about-img.6q6ve1nrg4.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6q6ve1nrg4"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/about-img.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/about-img.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\about-img.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MirdVuaCPlG/94LtcofNclWLvxFATqr/E6QLagKKNQQ="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/client1.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/client1.k13beupcue.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k13beupcue"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/client1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KHrH/hbXmYAzHwDhFPb7yYic1RYXQ0g9HwvrHjlfTE4="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/client2.4eo462ldal.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4eo462ldal"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/client2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/client2.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43280"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hA0aOsoNnRH5G3GWPib1j37Qo2NeG9mkN20E6VM5iRA="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f1.oh8cfn8tcd.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oh8cfn8tcd"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f1.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "254582"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BF/cazOQewLjh7Rg+bp7dchZABZhKglVgnbLpkGNjs0="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f2.ktovtbb25v.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktovtbb25v"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f2.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f3.l3uqngtqwn.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3uqngtqwn"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f3.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229279"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4SEOqKZHvZRLlzwWlX/H6nvAPH8rp1Pb54weTNrZqzE="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f4.6kxzkjmezk.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6kxzkjmezk"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f4.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219054"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WstFQoD5AGfdO7ImxBtv1o83ABQ65UVURNuIG1i+3fM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f5.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f5.qquuf1u58q.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "276337"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qquuf1u58q"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IiqMATkTr6Zep29/WJH4HTpwyybaMUqoqMJ+/LKMz4k="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f6.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f6.zlipdfzboh.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "236819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zlipdfzboh"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iRwJFtnhaiaQ2kzJgvvtMbKNEsVLFviSQad0nNsi8Qk="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f7.5mp1grcj9z.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mp1grcj9z"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f7.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f8.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f8.vuszxf9eko.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f8.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vuszxf9eko"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f8.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KRbWqyiZTKvnhp4EYDnSmvQVyHjbBCwwWsL0IYL7ytM="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f9.2zme3h13sw.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zme3h13sw"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/f9.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/f9.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f9.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgLCwWg1x818Va0AMDbIzGwhikqo4g8NwCxVTfn1YKk="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/favicon.9ozdcrmt9b.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ozdcrmt9b"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/favicon.png",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12547"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J5KFk1FHnNy1iubFCDshfeetRTsO2Q8r5zat5dKs5c8="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/hero-bg.bks7niomeb.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bks7niomeb"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/hero-bg.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/hero-bg.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\hero-bg.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W4vfruI1MfBt13Sti+1ExCHnMH6k2MqjUq2++WabWlI="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/o1.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/o1.rkigy015z7.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rkigy015z7"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/o1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9YsnGdNgrzPfCQ1NwXquZ5Aa8QZfVORNHTm54rmtO1M="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/o2.48jshhobi3.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48jshhobi3"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/images/o2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/images/o2.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rNo+3PpZ1UGdR76b0maKtllJFYF5wExP7ZBlPCK3EIY="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/index.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U67ifNb/QjWiOqH9xeTmOqXwHbLuG/zyGBDhIY1ljvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U67ifNb/QjWiOqH9xeTmOqXwHbLuG/zyGBDhIY1ljvs="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/index.xn1hjbft2x.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U67ifNb/QjWiOqH9xeTmOqXwHbLuG/zyGBDhIY1ljvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn1hjbft2x"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U67ifNb/QjWiOqH9xeTmOqXwHbLuG/zyGBDhIY1ljvs="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/js/bootstrap.ikbvthl94z.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ikbvthl94z"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/js/bootstrap.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "181916"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uv3un1DrOQEmgwZUBkxD1kT4ia9ckWdHDimRkTHtEjs="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/js/custom.95dnrx32fu.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95dnrx32fu"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/js/custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/js/custom.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TXGUUXUPgOg61BH77vLrF3A4BsMbAQ1iCNx9nHVkrDQ="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/js/jquery-3.4.1.min.0h1hq80lqs.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h1hq80lqs"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/js/jquery-3.4.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/js/jquery-3.4.1.min.js",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\jquery-3.4.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TCTf0oeErSvvs9r6rGvx7U581YzOcT2aCyKNQm6BK68="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/menu.ar6op5pqch.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\menu.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yspNvJWgeTTiNydqz96YaxfiwsnAQ60uJ+yuVdRzqsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ar6op5pqch"
+        },
+        {
+          "Name": "label",
+          "Value": "eMuUI/menu.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yspNvJWgeTTiNydqz96YaxfiwsnAQ60uJ+yuVdRzqsQ="
+        }
+      ]
+    },
+    {
+      "Route": "eMuUI/menu.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\menu.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39134"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yspNvJWgeTTiNydqz96YaxfiwsnAQ60uJ+yuVdRzqsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yspNvJWgeTTiNydqz96YaxfiwsnAQ60uJ+yuVdRzqsQ="
         }
       ]
     },

@@ -725,6 +725,18 @@
         }
       }
     },
+    "/MenuTableCount": {
+      "get": {
+        "tags": [
+          "MenuTables"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/TotalMoneyCaseAmount": {
       "get": {
         "tags": [

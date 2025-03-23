@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|solutionrelative:signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\shared\\components\\_defaultoffercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_defaultoffercomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrapi\\controllers\\menutablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|solutionrelative:signalrapi\\controllers\\menutablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.businesslayer\\concrete\\menutablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\menutablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.businesslayer\\abstract\\imenutableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\imenutableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.dataaccesslayer\\entityframework\\efmenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efmenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.dataaccesslayer\\abstract\\imenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\imenutabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Migrations\\20250323062027_mig_addMenuTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SignalR.DataAccessLayer\\Migrations\\20250323062027_mig_addMenuTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B77ED2D8-23E5-4DB5-BDCC-014769B93924}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.entitylayer\\entities\\menutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B77ED2D8-23E5-4DB5-BDCC-014769B93924}|SignalR.EntityLayer\\SignalR.EntityLayer.csproj|solutionrelative:signalr.entitylayer\\entities\\menutable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Program.cs",
-              "RelativeDocumentMoniker": "SignalRAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Program.cs",
-              "RelativeToolTip": "SignalRAPI\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:27:32.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MenuTablesController.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\MenuTablesController.cs",
-              "RelativeDocumentMoniker": "SignalRAPI\\Controllers\\MenuTablesController.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\MenuTablesController.cs",
-              "RelativeToolTip": "SignalRAPI\\Controllers\\MenuTablesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:24:12.197Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T16:26:52.639Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuTableManager.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Concrete\\MenuTableManager.cs",
-              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\MenuTableManager.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Concrete\\MenuTableManager.cs",
-              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\MenuTableManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:22:41.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMenuTableService.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
-              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
-              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IMenuTableService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:22:04.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EfMenuTableDal.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfMenuTableDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:21:14.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IMenuTableDal.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\IMenuTableDal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:20:55.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250323062027_mig_addMenuTable.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Migrations\\20250323062027_mig_addMenuTable.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Migrations\\20250323062027_mig_addMenuTable.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Migrations\\20250323062027_mig_addMenuTable.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Migrations\\20250323062027_mig_addMenuTable.cs",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_DefaultOfferComponentPartial\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:20:27.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SignalRContext.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:19:58.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MenuTable.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.EntityLayer\\Entities\\MenuTable.cs",
-              "RelativeDocumentMoniker": "SignalR.EntityLayer\\Entities\\MenuTable.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.EntityLayer\\Entities\\MenuTable.cs",
-              "RelativeToolTip": "SignalR.EntityLayer\\Entities\\MenuTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T06:18:58.526Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T16:40:43.407Z",
               "EditorCaption": ""
             }
           ]

@@ -80,6 +80,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Discount/CreateDiscount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY291bnRcQ3JlYXRlRGlzY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -124,6 +128,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGVQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/ProgressBars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3Jlc3NCYXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_DefaultOfferComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRPZmZlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_DefaultSliderComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRTbGlkZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_LayoutFooterComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEZvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -142,6 +158,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_LayoutSidebarComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_UILayoutFooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0Rm9vdGVyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_UILayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0SGVhZENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_UILayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0TmF2YmFyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_UILayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0U2NyaXB0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Shared/Components/_UILayoutSocialMediaComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1VJTGF5b3V0U29jaWFsTWVkaWFDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/SignalRDefault/Index.cshtml]
@@ -178,6 +214,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/Testimonial/UpdateTestimonial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVXBkYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/UILayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlMYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/eMu/source/repos/SignalR_Project/SignalRWebUI/Views/_ViewImports.cshtml]

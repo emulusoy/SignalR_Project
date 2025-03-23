@@ -317,6 +317,134 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\about.html",
+      "PackagePath": "staticwebassets\\eMuUI\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\book.html",
+      "PackagePath": "staticwebassets\\eMuUI\\book.html"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\eMuUI\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\eMuUI\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\eMuUI\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css",
+      "PackagePath": "staticwebassets\\eMuUI\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\eMuUI\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\css\\style.scss",
+      "PackagePath": "staticwebassets\\eMuUI\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\eMuUI\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\eMuUI\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\eMuUI\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client1.jpg",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\client1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\client2.jpg",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\client2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f1.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f2.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f3.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f4.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f5.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f6.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f7.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f7.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f8.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f8.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\f9.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\f9.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o1.jpg",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\o1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\images\\o2.jpg",
+      "PackagePath": "staticwebassets\\eMuUI\\images\\o2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\index.html",
+      "PackagePath": "staticwebassets\\eMuUI\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\eMuUI\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\custom.js",
+      "PackagePath": "staticwebassets\\eMuUI\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\eMuUI\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\eMuUI\\menu.html",
+      "PackagePath": "staticwebassets\\eMuUI\\menu.html"
+    },
+    {
       "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

@@ -23,6 +23,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Statistic}/{action=Index}/{id?}");
+    pattern: "{controller=Default}/{action=Index}/{id?}");
 
 app.Run();
