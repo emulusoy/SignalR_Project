@@ -4,59 +4,86 @@
 	Layout = "~/Views/AdminLayout/Index.cshtml";
 	int count = 0;
 }
+<script src="~/microsoft/signalr/dist/browser/signalr.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
 
 <div class="content">
 	<div class="container-fluid">
-		<h4 class="page-title">Tables</h4>
+
+        <script type="text/javascript">
+
+            $(document).ready(() => {
+
+                var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7002/SignalRHub").build();
+                $("#connstatus").text(connection.state);
+                connection.start().then(() => {
+                    $("#connstatus").text(connection.state);
+                    setInterval(() => {
+						connection.invoke("GetBookingList");
+                    }, 2000);
+                }).catch((err) => { console.log(err) });
+
+
+				connection.on("ReceiveBookingList", (value) => {
+					console.log(value);
+					let tablehtml = `<table class=table mt-3><thead>
+									 <tr>
+									 <th scope="col">#</th>
+									 <th scope="col">name and Surname</th>
+									 <th scope="col">Phone</th>
+									 <th scope="col">How many people</th>
+									 <th scope="col">Reservation Status</th>
+									 <th scope="col">Edit</th>
+								     <th scope="col">Accept</th>						 
+									 </tr>
+									 </thead>
+									 <tbody>`
+					$.each(value, (index, item) => {
+						tablehtml += `<tr>
+									<th>${index+1}</th>
+									<td>${item.bookingName}</td>
+									<td>${item.bookingPhone}</td>
+									<td>${item.bookingpersonCount}</td>
+									<td>${item.bookingDescription}</td>
+									<td>
+									<a href="/Booking/DeleteBooking/${item.bookingID}" class="btn btn-outline-danger">Sil</a>
+									<a href="/Booking/UpdateBooking/${item.bookingID}" class="btn btn-outline-success">Güncelle</a>
+									
+									</td>
+									
+									<td>
+									<a href="/Booking/BookingStatusApproved/${item.bookingID}" class="btn btn-outline-info">Onayla</a>
+									<a href="/Booking/BookingStatusCancelled/${item.bookingID}" class="btn btn-outline-dark">İptal Et</a>
+									</td>
+									</tr>`
+					});
+					tablehtml += "</tbody></table>";
+					$("#bookingList").html(tablehtml);
+                });
+            });
+
+        </script>
+
+		<h4 class="page-title">Reservation Transactions</h4>
 		<div class="row">
 			<div class="col-md-12">
+
 				<div class="card">
 					<div class="card-header">
-						<div class="card-title">Booking LIST</div>
+						<div class="card-title">Reservation List</div>
 					</div>
 					<div class="card-body">
 						<div class="card-sub">
-							You can perform Booking-related operations below. :
+							You can make your reservation below.
 						</div>
-						<table class="table mt-3">
-							<thead>
-								<tr>
-									<th scope="col">#</th>
-									<th scope="col">Name</th>
-									<th scope="col">Phone</th>
-									<th scope="col">Person Count</th>
-									<th scope="col">Rezervation Status</th>
-									<th scope="col">Edit</th>
-								</tr>
-							</thead>
-							<tbody>
-								@foreach (var item in Model)
-								{
-									count++;
-									<tr>
-										<td>@count</td>
-										<td>@item.BookingName</td>
-										<td>@item.BookingPhone</td>
-										<td>@item.BookingPersonCount</td>
-										<td>Reservation received</td>
-										<td>
-											<a href="/Booking/DeleteBooking/@item.BookingID/" class="btn btn-outline-danger">Delete</a>
-											<a href="/Booking/UpdateBooking/@item.BookingID/" class="btn btn-outline-success">Update</a>
-
-										</td>
-									</tr>
-								}
-
-							</tbody>
-						</table>
-						<a href="/Booking/CreateBooking/" class="btn btn-outline-info">Add New</a>
+						<div id="bookingList"></div>
+						<a href="/Booking/CreateBooking/" class="btn btn-outline-primary">New Reservation Entry</a>
+						
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
 </div>
-
-
-

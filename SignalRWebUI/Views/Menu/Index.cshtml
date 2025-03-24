@@ -131,18 +131,26 @@
     @await Component.InvokeAsync("_UILayoutScriptComponentPartial")
 
     <script>
-        function showproductid(value) {
-            
-            var id=value;
+
+        function showproductid(productId, menuTableId) {
             $.ajax({
-                type: 'post',
-                data:{item:id},
-                contentType:'json',
-                success:function(){
-                    swal("Product Id : "+id, "Your product has been added to cart","success"):
-                }              
+                type: 'POST',
+                url: "/Menu/AddBasket",
+                data: {
+                    id: productId,
+                    menuTableId: menuTableId // MenuTableId burada gönderiliyor
+                },
+                success: function () {
+                    swal("Product   ID :" + productId, "Order added cart", "success");
+                },
+                error: function (xhr, status, error) {
+                    console.error("Error:", error);
+                    console.log("Response:", xhr.responseText);
+                }
             });
-        }
+        };
+
+
     </script>
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 

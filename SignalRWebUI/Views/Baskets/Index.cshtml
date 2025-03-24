@@ -49,7 +49,7 @@
                     @foreach (var item in Model)
                     {
                         basketTotalPrice = Model.Sum(x => x.Price);
-                        tax = basketTotalPrice / 100 * 10;
+                        tax = basketTotalPrice / 100 * 12;
                         basketTotalPriceWithTax = basketTotalPrice + tax;
                         count++;
                         totalPrice = item.Price * item.Count;

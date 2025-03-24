@@ -1,0 +1,98 @@
+﻿@model CreateBookingDto
+
+
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+
+@await Component.InvokeAsync("_UILayoutHeadComponentPartial")
+
+<body class="sub_page">
+
+    @await Component.InvokeAsync("_MenuNavbarComponentPartial")
+
+    <section class="book_section layout_padding">
+        <div class="container">
+            <div class="heading_container">
+                <h2>
+                    Make a reservation
+                </h2>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form_container">
+                        <form method="post">
+
+                            <div asp-validation-summary="All" class="text-danger"></div>
+
+                            <div>
+                                <input type="text" class="form-control" placeholder="Adınız Soyadınız" asp-for="BookingName" />
+                                <span asp-validation-for="BookingName" class="text-danger"></span>
+                            </div>
+                            <div>
+                                <input type="text" class="form-control" placeholder="Telefon Numaranız" asp-for="BookingPhone" />
+                                <span asp-validation-for="BookingPhone" class="text-danger"></span>
+                            </div>
+                            <div>
+                                <input type="email" class="form-control" placeholder="Mail Adresiniz" asp-for="BookingMail" />
+                                <span asp-validation-for="BookingMail" class="text-danger"></span>
+                            </div>
+                            <div>
+                                <select asp-for="BookingPersonCount" class="form-control nice-select wide">
+                                    <option value="" disabled selected>
+                                        How many people?
+                                    </option>
+                                    <option value="1">
+                                        1
+                                    </option>
+                                    <option value="2">
+                                        2
+                                    </option>
+                                    <option value="3">
+                                        3
+                                    </option>
+                                    <option value="4">
+                                        4
+                                    </option>
+                                    <option value="5">
+                                        5
+                                    </option>
+                                    <option value="6">
+                                        6++
+                                    </option>
+                                </select>
+                                <span asp-validation-for="BookingPersonCount" class="text-danger"></span>
+                            </div>
+                            <div>
+                                <input type="date" class="form-control" asp-for="BookingDate">
+                                <span asp-validation-for="BookingDate" class="text-danger"></span>
+                            </div>
+                            <div class="btn_box">
+                                <button>
+                                    Reserve Your Place
+                                </button>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="map_container ">
+                        <iframe src="@ViewBag.location" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    @await Component.InvokeAsync("_UILayoutFooterComponentPartial")
+
+    @await Component.InvokeAsync("_UILayoutScriptComponentPartial")
+
+</body>
+
+</html>
