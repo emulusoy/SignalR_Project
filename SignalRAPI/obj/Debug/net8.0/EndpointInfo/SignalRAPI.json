@@ -1007,6 +1007,18 @@
         }
       }
     },
+    "/api/Sliders": {
+      "get": {
+        "tags": [
+          "Sliders"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/SocialMedia": {
       "get": {
         "tags": [

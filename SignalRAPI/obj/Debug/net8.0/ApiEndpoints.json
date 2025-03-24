@@ -668,6 +668,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SignalRAPI.Controllers.SlidersController",
+    "Method": "SliderList",
+    "RelativePath": "api/Sliders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SignalRAPI.Controllers.SocialMediaController",
     "Method": "SocialMediaList",
     "RelativePath": "api/SocialMedia",
