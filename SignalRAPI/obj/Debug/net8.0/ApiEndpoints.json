@@ -74,6 +74,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SignalRAPI.Controllers.BasketController",
+    "Method": "GetBasketByMenuTableID",
+    "RelativePath": "api/Basket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.BasketController",
+    "Method": "BasketListByMenuTableWithProductName",
+    "RelativePath": "api/Basket/BasketListByMenuTableWithProductName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SignalRAPI.Controllers.BookingController",
     "Method": "BookingList",
     "RelativePath": "api/Booking",

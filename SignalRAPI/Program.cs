@@ -1,5 +1,7 @@
 
 using System.Reflection;
+using System.Text.Json.Serialization;
+using Microsoft.Extensions.Options;
 using SignalR.BusinessLayer.Abstract;
 using SignalR.BusinessLayer.Concrete;
 using SignalR.DataAccessLayer.Abstract;
@@ -75,6 +77,13 @@ builder.Services.AddScoped<IMenuTableDal, EfMenuTableDal>();
 builder.Services.AddScoped<ISliderService, SliderManager>();
 builder.Services.AddScoped<ISliderDal, EfSliderDal>();
 
+builder.Services.AddScoped<IBasketService, BasketManager>();
+builder.Services.AddScoped<IBasketDal, EfBasketDal>();
+
+
+
+//hata aliniyor include ve .net80 icin kod
+builder.Services.AddControllersWithViews().AddJsonOptions(options => options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 
 
 
