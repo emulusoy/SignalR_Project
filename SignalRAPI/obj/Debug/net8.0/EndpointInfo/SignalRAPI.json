@@ -821,10 +821,124 @@
         }
       }
     },
-    "/MenuTableCount": {
+    "/api/MenuTables/MenuTableCount": {
       "get": {
         "tags": [
           "MenuTables"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MenuTables": {
+      "get": {
+        "tags": [
+          "MenuTables"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "MenuTables"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateMenuTableDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateMenuTableDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateMenuTableDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "MenuTables"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateMenuTableDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateMenuTableDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateMenuTableDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MenuTables/{id}": {
+      "delete": {
+        "tags": [
+          "MenuTables"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "MenuTables"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -1671,6 +1785,19 @@
         },
         "additionalProperties": false
       },
+      "CreateMenuTableDto": {
+        "type": "object",
+        "properties": {
+          "menuTableName": {
+            "type": "string",
+            "nullable": true
+          },
+          "menuTableStatus": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "CreateNotificationDto": {
         "type": "object",
         "properties": {
@@ -1903,6 +2030,23 @@
           "featureDescription": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateMenuTableDto": {
+        "type": "object",
+        "properties": {
+          "menuTableID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "menuTableName": {
+            "type": "string",
+            "nullable": true
+          },
+          "menuTableStatus": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

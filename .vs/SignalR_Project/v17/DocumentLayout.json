@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DA786C7-466D-442E-ACAD-E110DB433180}|SignalRAPI\\SignalRAPI.csproj|solutionrelative:signalrapi\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.businesslayer\\concrete\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.businesslayer\\abstract\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.dataaccesslayer\\abstract\\inotificationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\abstract\\inotificationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.dataaccesslayer\\entityframework\\efnotificationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DB98056-9EC9-4EE7-AEB5-AE589E49C60B}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\entityframework\\efnotificationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\controllers\\menutablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\menutablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,75 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NotificationsController.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\NotificationsController.cs",
-              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\NotificationsController.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\NotificationsController.cs",
-              "RelativeToolTip": "SignalRWebUI\\Controllers\\NotificationsController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwF8AAAAMAAAAAAAAAA==",
+              "Title": "MenuTableController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\MenuTableController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\MenuTableController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\MenuTableController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\MenuTableController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:28:17.303Z",
+              "WhenOpened": "2025-03-27T15:04:42.551Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NotificationController.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\NotificationController.cs",
-              "RelativeDocumentMoniker": "SignalRAPI\\Controllers\\NotificationController.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRAPI\\Controllers\\NotificationController.cs",
-              "RelativeToolTip": "SignalRAPI\\Controllers\\NotificationController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAADwv1MAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:39:44.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NotificationManager.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Concrete\\NotificationManager.cs",
-              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\NotificationManager.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Concrete\\NotificationManager.cs",
-              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\NotificationManager.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:38:15.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Abstract\\INotificationService.cs",
-              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Abstract\\INotificationService.cs",
-              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\INotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:38:04.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EfNotificationDal.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\EntityFramework\\EfNotificationDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\EntityFramework\\EfNotificationDal.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\EntityFramework\\EfNotificationDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\EntityFramework\\EfNotificationDal.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:31:21.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "INotificationDal.cs",
-              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Abstract\\INotificationDal.cs",
-              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Abstract\\INotificationDal.cs",
-              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.DataAccessLayer\\Abstract\\INotificationDal.cs",
-              "RelativeToolTip": "SignalR.DataAccessLayer\\Abstract\\INotificationDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T08:27:51.556Z"
             }
           ]
         }
