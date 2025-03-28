@@ -1,0 +1,53 @@
+﻿@model List<SignalRWebUI.Dtos.MenuTableDtos.ResultMenuTableDto>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+	int count = 0;
+}
+
+<div class="content">
+	<div class="container-fluid">
+		<h4 class="page-title">Table Operations</h4>
+		<div class="row">
+			<div class="col-md-12">
+
+				<div class="card">
+					<div class="card-header">
+						<div class="card-title">Table LIST</div>
+					</div>
+					<div class="card-body">
+						<div class="card-sub">
+							You can perform the operations related to the tables below.
+						</div>
+						<table class="table mt-3">
+							<thead>
+								<tr>
+									<th scope="col">##-##</th>
+									<th scope="col">Table Name</th>
+									<th scope="col">Edit</th>
+
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in Model)
+								{
+									count++;
+									<tr>
+										<th>@count</th>
+										<td>@item.MenuTableName</td>
+										
+										<td><a href="/MenuTable/DeleteMenuTable/@item.MenuTableID" class="btn btn-outline-danger">Delete</a>
+										<a href="/MenuTable/UpdateMenuTable/@item.MenuTableID" class="btn btn-outline-success">Update</a>
+										</td>
+									</tr>
+								}
+							</tbody>
+						</table>
+						<a href="/MenuTable/CreateMenuTable/" class="btn btn-outline-primary">Add Table</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

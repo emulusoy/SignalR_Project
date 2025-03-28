@@ -23,6 +23,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Notifications}/{action=Index}/{id?}");
+    pattern: "{controller=Message}/{action=Index}/{id?}");
 
 app.Run();

@@ -109,6 +109,7 @@ wwwroot\eMuUI\js\custom.js
 wwwroot\eMuUI\js\jquery-3.4.1.min.js
 wwwroot\eMuUI\menu.html
 wwwroot\favicon.ico
+wwwroot\js\chat.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
