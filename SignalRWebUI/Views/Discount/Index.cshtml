@@ -24,10 +24,9 @@
 									<th scope="col">#</th>
 									<th scope="col">Title</th>
 									<th scope="col">Amount</th>
-									<th scope="col">Description</th>
-									<th scope="col">Image Url</th>
-									
+									<th scope="col">Status</th>
 									<th scope="col">Edit</th>
+									<th scope="col">Status Edit</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -37,13 +36,16 @@
 										<td>@item.DiscountID</td>
 										<td>@item.DiscountTitle</td>
 										<td>@item.DiscountAmount</td>
-										<td>@item.DiscountDescription</td>
-										<td>@item.DiscountImageUrl</td>
+										<td>@item.Status</td>
 										<td>
-											<a href="#" class="btn btn-outline-info">Status</a>
 
 											<a href="/Discount/DeleteDiscount/@item.DiscountID/" class="btn btn-outline-danger">Delete</a>
 											<a href="/Discount/UpdateDiscount/@item.DiscountID/" class="btn btn-outline-success">Update</a>
+											
+											</td>
+											<td>
+											<a href="/Discount/ChangeStatusTrue/@item.DiscountID/" class="btn btn-outline-success">✓</a>
+											<a href="/Discount/ChangeStatusFalse/@item.DiscountID/" class="btn btn-outline-danger">x</a>
 
 										</td>
 									</tr>

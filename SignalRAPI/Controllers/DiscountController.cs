@@ -32,10 +32,11 @@ namespace SignalRAPI.Controllers
         {
             _DiscountService.TAdd(new Discount()
             {
-                DiscountAmount=createDto.DiscountAmount,
-                DiscountDescription=createDto.DiscountDescription,  
-                DiscountImageUrl=createDto.DiscountImageUrl,    
-                DiscountTitle=createDto.DiscountTitle,  
+                Status = false,
+                DiscountAmount = createDto.DiscountAmount,
+                DiscountDescription = createDto.DiscountDescription,
+                DiscountImageUrl = createDto.DiscountImageUrl,
+                DiscountTitle = createDto.DiscountTitle,
             });
 
             return Ok("Discount section added successfully");
@@ -57,7 +58,8 @@ namespace SignalRAPI.Controllers
                 DiscountID=updateDto.DiscountID,    
                 DiscountImageUrl = updateDto.DiscountImageUrl,
                 DiscountAmount = updateDto.DiscountAmount,
-                
+                Status = false,
+
             });
             return Ok("Discount section updated successfully!");
         }
@@ -66,6 +68,18 @@ namespace SignalRAPI.Controllers
         {
             var value = _DiscountService.TGetById(id);
             return Ok(value);
+        }
+        [HttpGet("ChangeStatusFalse/{id}")]
+        public ActionResult ChangeStatusFalse(int id)
+        {
+            _DiscountService.TChangeStatusFalse(id);
+            return Ok("Status Changed False");
+        }
+        [HttpGet("ChangeStatusTrue/{id}")]
+        public ActionResult ChangeStatusTrue(int id)
+        {
+            _DiscountService.TChangeStatusTrue(id);
+            return Ok("Status Changed True");
         }
     }
 }

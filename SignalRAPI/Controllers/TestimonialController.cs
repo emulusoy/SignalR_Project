@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using SignalR.BusinessLayer.Abstract;
 using SignalR.DtoLayer.TestimonialDto;
@@ -33,7 +34,7 @@ namespace SignalRAPI.Controllers
         {
             _TestimonialService.TAdd(new Testimonial()
             {
-                TestimonialComment=createDto.TestimonialTitle,
+                TestimonialComment=createDto.TestimonialComment,
                 TestimonialImageUrl=createDto.TestimonialImageUrl,  
                 TestimonialTitle=createDto.TestimonialTitle,  
                 TestimonialName=createDto.TestimonialName,
@@ -54,12 +55,12 @@ namespace SignalRAPI.Controllers
         {
             _TestimonialService.TUpdate(new Testimonial()
             {
-                TestimonialStatus = updateDto.TestimonialStatus,
-                TestimonialName = updateDto.TestimonialName,
-                TestimonialTitle = updateDto.TestimonialTitle,
-                TestimonialImageUrl = updateDto.TestimonialImageUrl,
                 TestimonialComment = updateDto.TestimonialComment,
-                TestimonialID=updateDto.TestimonialID,
+                TestimonialImageUrl = updateDto.TestimonialImageUrl,
+                TestimonialTitle = updateDto.TestimonialTitle,
+                TestimonialName = updateDto.TestimonialName,
+                TestimonialStatus = updateDto.TestimonialStatus,
+                TestimonialID =updateDto.TestimonialID,
             });
             return Ok("Testimonial section updated successfully!");
         }

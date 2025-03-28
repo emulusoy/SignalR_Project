@@ -35,7 +35,9 @@ namespace SignalRAPI.Controllers
                 ContactPhone = createDto.ContactPhone,
                 ContactMail = createDto.ContactMail,    
                 ContactLocation = createDto.ContactLocation,
-                FooterDescription = createDto.FooterDescription,    
+                FooterDescription = createDto.FooterDescription,
+                
+                
             });
 
             return Ok("Contact section added successfully");
