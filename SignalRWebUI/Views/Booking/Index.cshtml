@@ -31,7 +31,7 @@
 					let tablehtml = `<table class=table mt-3><thead>
 									 <tr>
 									 <th scope="col">#</th>
-									 <th scope="col">name and Surname</th>
+									 <th scope="col">Name and Surname</th>
 									 <th scope="col">Phone</th>
 									 <th scope="col">How many people</th>
 									 <th scope="col">Reservation Status</th>
@@ -45,17 +45,17 @@
 									<th>${index+1}</th>
 									<td>${item.bookingName}</td>
 									<td>${item.bookingPhone}</td>
-									<td>${item.bookingpersonCount}</td>
+									<td>${item.bookingPersonCount}</td>
 									<td>${item.bookingDescription}</td>
 									<td>
-									<a href="/Booking/DeleteBooking/${item.bookingID}" class="btn btn-outline-danger">Sil</a>
-									<a href="/Booking/UpdateBooking/${item.bookingID}" class="btn btn-outline-success">Güncelle</a>
+									<a href="/Booking/DeleteBooking/${item.bookingID}" class="btn btn-outline-danger">Delete</a>
+									<a href="/Booking/UpdateBooking/${item.bookingID}" class="btn btn-outline-success">Update</a>
 									
 									</td>
 									
 									<td>
-									<a href="/Booking/BookingStatusApproved/${item.bookingID}" class="btn btn-outline-info">Onayla</a>
-									<a href="/Booking/BookingStatusCancelled/${item.bookingID}" class="btn btn-outline-dark">İptal Et</a>
+									<a href="/Booking/BookingStatusApproved/${item.bookingID}" class="btn btn-outline-info">Approve</a>
+									<a href="/Booking/BookingStatusCancelled/${item.bookingID}" class="btn btn-outline-dark">Cancelt</a>
 									</td>
 									</tr>`
 					});

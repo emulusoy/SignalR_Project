@@ -1,4 +1,15 @@
+﻿using SignalR.DataAccessLayer.Concrete;
+using SignalR.EntityLayer.Entities;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+//register islem
+builder.Services.AddDbContext<SignalRContext>();
+builder.Services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<SignalRContext>();
+
+
+
 
 // Add services to the container.
 builder.Services.AddHttpClient();
@@ -23,6 +34,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Message}/{action=Index}/{id?}");
+    pattern: "{controller=About}/{action=Index}/{id?}");
 
 app.Run();

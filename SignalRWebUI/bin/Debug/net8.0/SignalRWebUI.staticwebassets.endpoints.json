@@ -14187,6 +14187,1892 @@
           "Value": "sha256-H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co="
         }
       ]
+    },
+    {
+      "Route": "reg-log/css/nunito-font.css",
+      "AssetFile": "reg-log/css/nunito-font.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/nunito-font.rm39fmyu1h.css",
+      "AssetFile": "reg-log/css/nunito-font.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm39fmyu1h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/css/nunito-font.css"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/style.css",
+      "AssetFile": "reg-log/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/style.rmzqxdb4hv.css",
+      "AssetFile": "reg-log/css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rmzqxdb4hv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/css/style.css"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Black.sfccdbyiao.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Black.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfccdbyiao"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Black.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Black.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Black.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BlackItalic.m7kyv8ht3k.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-BlackItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7kyv8ht3k"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-BlackItalic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BlackItalic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-BlackItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Bold.pzcinbxmsi.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzcinbxmsi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Bold.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BoldItalic.qeqkkviyuq.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-BoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qeqkkviyuq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-BoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BoldItalic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-BoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBold.99jbercaxj.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99jbercaxj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.l8vci0vmzp.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8vci0vmzp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLight.0raahsndj3.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraLight.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0raahsndj3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLight.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraLight.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.279oer94u0.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "279oer94u0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Italic.h4fv3363lb.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4fv3363lb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Italic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Italic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Light.qz5tmkty6h.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Light.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qz5tmkty6h"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Light.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Light.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Light.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-LightItalic.buyfff6k3q.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-LightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "buyfff6k3q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-LightItalic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-LightItalic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-LightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Regular.m4r1vtd6ui.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4r1vtd6ui"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Regular.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBold.4ae50jalhc.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-SemiBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ae50jalhc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBold.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-SemiBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.50nbc93i29.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "50nbc93i29"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.ttf"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.ttf",
+      "AssetFile": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/OFL.q74w63ca7i.txt",
+      "AssetFile": "reg-log/fonts/Nunito/OFL.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q74w63ca7i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/OFL.txt"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/OFL.txt",
+      "AssetFile": "reg-log/fonts/Nunito/OFL.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza.3b11md97mw.jpg",
+      "AssetFile": "reg-log/images/Pizza.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3b11md97mw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/Pizza.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza.jpg",
+      "AssetFile": "reg-log/images/Pizza.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza1.dgmovgi9ey.jpg",
+      "AssetFile": "reg-log/images/Pizza1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgmovgi9ey"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/Pizza1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza1.jpg",
+      "AssetFile": "reg-log/images/Pizza1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Sauce1.jpg",
+      "AssetFile": "reg-log/images/Sauce1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Sauce1.w7zkjf2579.jpg",
+      "AssetFile": "reg-log/images/Sauce1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7zkjf2579"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/Sauce1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/form-v6.3rjh0rtht1.jpg",
+      "AssetFile": "reg-log/images/form-v6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rjh0rtht1"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/form-v6.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/form-v6.jpg",
+      "AssetFile": "reg-log/images/form-v6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/index.fjuj8jfk6v.html",
+      "AssetFile": "reg-log/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fjuj8jfk6v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/index.html"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/index.html",
+      "AssetFile": "reg-log/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/readme.oapm0uvoo5.txt",
+      "AssetFile": "reg-log/readme.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oapm0uvoo5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg="
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/readme.txt"
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/readme.txt",
+      "AssetFile": "reg-log/readme.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg="
+        }
+      ]
     }
   ]
 }

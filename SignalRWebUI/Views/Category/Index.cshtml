@@ -1,7 +1,8 @@
 ﻿@model List<ResultCategoryDto>
 @{
-    ViewData["Title"] = "Index";
-    Layout = "~/Views/AdminLayout/Index.cshtml";
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/AdminLayout/Index.cshtml";
+	int count = 0;
 }
 <div class="content">
 	<div class="container-fluid">
@@ -28,8 +29,9 @@
 							<tbody>
 								@foreach (var item in Model)
 								{
+									count++;
 									<tr>
-										<td>@item.CategoryID</td>
+										<td>@count</td>
 										<td>@item.CategoryName</td>
 										<td>@item.CategoryStatus</td>
 										<td>

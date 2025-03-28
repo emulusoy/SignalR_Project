@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vUPc1/lpAgfLucsRKJ3peNJw4A72ARHmjVv9v5M2QkM=",
+  "Hash": "X/J+QE2w6lVf16wwMcc4oXurUaCfLDnweUXqin0ctfA=",
   "Source": "SignalRWebUI",
   "BasePath": "_content/SignalRWebUI",
   "Mode": "Default",
@@ -3669,6 +3669,489 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\nunito-font.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/css/nunito-font#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm39fmyu1h",
+      "Integrity": "XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\css\\nunito-font.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\style.css",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rmzqxdb4hv",
+      "Integrity": "HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Black.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-Black#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfccdbyiao",
+      "Integrity": "CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-BlackItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m7kyv8ht3k",
+      "Integrity": "0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BlackItalic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-Bold#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pzcinbxmsi",
+      "Integrity": "RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-BoldItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qeqkkviyuq",
+      "Integrity": "Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BoldItalic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-ExtraBold#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "99jbercaxj",
+      "Integrity": "w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l8vci0vmzp",
+      "Integrity": "2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-ExtraLight#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0raahsndj3",
+      "Integrity": "7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "279oer94u0",
+      "Integrity": "ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-Italic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h4fv3363lb",
+      "Integrity": "r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Light.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-Light#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qz5tmkty6h",
+      "Integrity": "lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-LightItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "buyfff6k3q",
+      "Integrity": "3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-LightItalic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-Regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m4r1vtd6ui",
+      "Integrity": "lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-SemiBold#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4ae50jalhc",
+      "Integrity": "jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "50nbc93i29",
+      "Integrity": "NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\OFL.txt",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/fonts/Nunito/OFL#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q74w63ca7i",
+      "Integrity": "Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\fonts\\Nunito\\OFL.txt"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\form-v6.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/images/form-v6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3rjh0rtht1",
+      "Integrity": "P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\images\\form-v6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/images/Pizza#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3b11md97mw",
+      "Integrity": "IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\images\\Pizza.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza1.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/images/Pizza1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dgmovgi9ey",
+      "Integrity": "U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\images\\Pizza1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Sauce1.jpg",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/images/Sauce1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w7zkjf2579",
+      "Integrity": "TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\images\\Sauce1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\index.html",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fjuj8jfk6v",
+      "Integrity": "W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\readme.txt",
+      "SourceId": "SignalRWebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\",
+      "BasePath": "_content/SignalRWebUI",
+      "RelativePath": "reg-log/readme#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oapm0uvoo5",
+      "Integrity": "cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reg-log\\readme.txt"
     }
   ],
   "Endpoints": [
@@ -17773,6 +18256,1892 @@
         {
           "Name": "integrity",
           "Value": "sha256-H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY+gn6z5n/Co="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/nunito-font.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\nunito-font.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/nunito-font.rm39fmyu1h.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\nunito-font.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm39fmyu1h"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/css/nunito-font.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XV5ugWFIzobjhjytG7VUZUhw6WmBy9txEOvH86ygpDg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/style.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/css/style.rmzqxdb4hv.css",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rmzqxdb4hv"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HQRZR3Pbik2rXJ3QzYkMyxbblSytA67jdDz/oYm2NfQ="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Black.sfccdbyiao.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Black.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfccdbyiao"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Black.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Black.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Black.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115896"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CF1alDhQoFGg4KaaZx+IWfGFHkOKtxQP4LFkA8Xeq1o="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BlackItalic.m7kyv8ht3k.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7kyv8ht3k"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-BlackItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BlackItalic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0omoY314px0IM3rxBaGZ5F2vKYYjHOxLbzUkFCm1t7c="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Bold.pzcinbxmsi.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzcinbxmsi"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Bold.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Bold.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSX+wNLxghw6sDm9CJEw7WXxQoJJUyHddopr+zS3WQI="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BoldItalic.qeqkkviyuq.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qeqkkviyuq"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-BoldItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-BoldItalic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ti1d//5lis+mqCwKZb/lAgiqMDm5DzTNy/IUPPWCBCw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBold.99jbercaxj.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99jbercaxj"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraBold.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBold.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w29hfQ/bBXL+KqK5vr/Yhei9UuLOos1Ht93LiyuqXbw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.l8vci0vmzp.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8vci0vmzp"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraBoldItalic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2xRW37R3va27Dr9WP8hr1REv8M862L+xtF1Qdz1JdPY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLight.0raahsndj3.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0raahsndj3"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraLight.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLight.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113036"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7KXHUFja5wNV17wl5LSViavyNo7olmLiBZjh4GpvqpY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.279oer94u0.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "279oer94u0"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-ExtraLightItalic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ju6FQI5c2tpmonD7gSpR5G0S9AMyTsMbcoSDMRh5QLw="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Italic.h4fv3363lb.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4fv3363lb"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Italic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Italic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r7KWXB7OLmbZtSZsnDOIP+dmvsr43ahCuOwDP7U3EUE="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Light.qz5tmkty6h.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Light.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qz5tmkty6h"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Light.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Light.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Light.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116360"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lrkA03hJNNlrDwQUKCmS/7G5OUtJE+G45rlW+OReaks="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-LightItalic.buyfff6k3q.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "buyfff6k3q"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-LightItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-LightItalic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3TbiodE8XRH72PaJhfmBhk+fi9b5I7twHwRy8FkXcVQ="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Regular.m4r1vtd6ui.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m4r1vtd6ui"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-Regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-Regular.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "113832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lqK/eT3WY0B/SbzSGf5avKjVLOmNR7YGPjhD210XvN0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBold.4ae50jalhc.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4ae50jalhc"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-SemiBold.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBold.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jOOgfNBmGco0c/2kkIT0/PbGsK/W7MHBnw2ulTXnBT0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.50nbc93i29.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "50nbc93i29"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/Nunito-SemiBoldItalic.ttf",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NUk/V6U5qdNCkdBTE7lyZmlcOePCyRYdwkCmgMrn+JY="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/OFL.q74w63ca7i.txt",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\OFL.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q74w63ca7i"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/fonts/Nunito/OFL.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/fonts/Nunito/OFL.txt",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\OFL.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vs8i9i5g4L0vkht4C99vQwe57WDLMUjx0UeYAJXoslc="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/form-v6.3rjh0rtht1.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\form-v6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3rjh0rtht1"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/form-v6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/form-v6.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\form-v6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P9qzp8NTqvphSOYCw6s48dUMiMwqRMYqwrV/tnRvVAI="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza.3b11md97mw.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3b11md97mw"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/Pizza.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199611"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IcnvMgRRxYbKgrl/65sMqJZSDTpbocmFRlqA2Rc5RWg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza1.dgmovgi9ey.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dgmovgi9ey"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/Pizza1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Pizza1.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142981"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U1kkRxFihhiW557svx/F16LLnGcC+WlvbCHjGvuxExo="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Sauce1.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Sauce1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/images/Sauce1.w7zkjf2579.jpg",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Sauce1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w7zkjf2579"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/images/Sauce1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TN41D/ln1YNN13XrOrr/pZYR3W6FitF4LZ1ltHPJPb0="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/index.fjuj8jfk6v.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fjuj8jfk6v"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/index.html",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W0WG1n9nbXoAbhdvkE099NSrTeoS+hrRpW70mK/6k1I="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/readme.oapm0uvoo5.txt",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\readme.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oapm0uvoo5"
+        },
+        {
+          "Name": "label",
+          "Value": "reg-log/readme.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg="
+        }
+      ]
+    },
+    {
+      "Route": "reg-log/readme.txt",
+      "AssetFile": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\readme.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Mar 2025 06:54:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cK7LCnaU3IaU1jyLv/yd2ezYRGzctOd+JH051FkZSkg="
         }
       ]
     },

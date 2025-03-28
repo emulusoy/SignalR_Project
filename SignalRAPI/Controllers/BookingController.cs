@@ -28,6 +28,7 @@ namespace SignalRAPI.Controllers
         {
             Booking booking = new Booking()
             {
+                BookingDescription = "Reservation Received!",
                 BookingDate = createDto.BookingDate,
                 BookingMail = createDto.BookingMail,
                 BookingName = createDto.BookingName,
@@ -47,7 +48,7 @@ namespace SignalRAPI.Controllers
         [HttpPut]
         public ActionResult UpdateBooking(UpdateBookingDto updateDto)
         {
-            Booking booking=new Booking()
+            Booking booking = new Booking()
             {
                 BookingID = updateDto.BookingID,
                 BookingDate = updateDto.BookingDate,
@@ -55,9 +56,10 @@ namespace SignalRAPI.Controllers
                 BookingName = updateDto.BookingName,
                 BookingPersonCount = updateDto.BookingPersonCount,
                 BookingPhone = updateDto.BookingPhone,
+                BookingDescription = "Reservation Apparoved",
             };
 
-            _bookingService.TUpdate(booking);   
+            _bookingService.TUpdate(booking);
             return Ok("Booking section updated successfully!");
         }
         [HttpGet("{id}")]
@@ -65,6 +67,18 @@ namespace SignalRAPI.Controllers
         {
             var value = _bookingService.TGetById(id);
             return Ok(value);
+        }
+        [HttpGet("BookingStatusApproved/{id}")]
+        public ActionResult BookingStatusApproved(int id)
+        {
+            _bookingService.TBookingStatusApproved(id);
+            return Ok("Approved");
+        }
+        [HttpGet("BookingStatusCancelled/{id}")]
+        public ActionResult BookingStatusCancelled(int id)
+        {
+            _bookingService.TBookingStatusCancelled(id);
+            return Ok("Cancelled");
         }
     }
 }

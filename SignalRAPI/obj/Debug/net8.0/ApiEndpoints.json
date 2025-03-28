@@ -212,6 +212,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SignalRAPI.Controllers.BookingController",
+    "Method": "BookingStatusApproved",
+    "RelativePath": "api/Booking/BookingStatusApproved/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.BookingController",
+    "Method": "BookingStatusCancelled",
+    "RelativePath": "api/Booking/BookingStatusCancelled/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SignalRAPI.Controllers.CategoryController",
     "Method": "CategoryList",
     "RelativePath": "api/Category",

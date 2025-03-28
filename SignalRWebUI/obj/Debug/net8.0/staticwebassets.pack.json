@@ -693,6 +693,98 @@
       "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\nunito-font.css",
+      "PackagePath": "staticwebassets\\reg-log\\css\\nunito-font.css"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\css\\style.css",
+      "PackagePath": "staticwebassets\\reg-log\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Black.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Italic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\Nunito-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\fonts\\Nunito\\OFL.txt",
+      "PackagePath": "staticwebassets\\reg-log\\fonts\\Nunito\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza.jpg",
+      "PackagePath": "staticwebassets\\reg-log\\images\\Pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Pizza1.jpg",
+      "PackagePath": "staticwebassets\\reg-log\\images\\Pizza1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\Sauce1.jpg",
+      "PackagePath": "staticwebassets\\reg-log\\images\\Sauce1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\images\\form-v6.jpg",
+      "PackagePath": "staticwebassets\\reg-log\\images\\form-v6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\index.html",
+      "PackagePath": "staticwebassets\\reg-log\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\wwwroot\\reg-log\\readme.txt",
+      "PackagePath": "staticwebassets\\reg-log\\readme.txt"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRWebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
