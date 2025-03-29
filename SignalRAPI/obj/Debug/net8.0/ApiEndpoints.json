@@ -613,6 +613,38 @@
   },
   {
     "ContainingType": "SignalRAPI.Controllers.MenuTablesController",
+    "Method": "ChangeMenuTableStatusToFalse",
+    "RelativePath": "api/MenuTables/ChangeMenuTableStatusToFalse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.MenuTablesController",
+    "Method": "ChangeMenuTableStatusToTrue",
+    "RelativePath": "api/MenuTables/ChangeMenuTableStatusToTrue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SignalRAPI.Controllers.MenuTablesController",
     "Method": "MenuTableCount",
     "RelativePath": "api/MenuTables/MenuTableCount",
     "HttpMethod": "GET",

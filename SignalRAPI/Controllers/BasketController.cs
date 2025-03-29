@@ -50,13 +50,13 @@ namespace SignalRAPI.Controllers
             _basketService.TAdd(new Basket()
             {
                 ProductID = createBasketDto.ProductID,
-                Count =1,
-                MenuTableID=2,
-                Price=context.Products.Where(x=>x.ProductID==createBasketDto.ProductID).Select(y=>y.ProductPrice).FirstOrDefault(),
-                TotalPrice=0,
-               
+                MenuTableID = createBasketDto.MenuTableID,
+                Count = 1,
+                Price = context.Products.Where(x => x.ProductID == createBasketDto.ProductID).Select(y => y.ProductPrice).FirstOrDefault(),
+                TotalPrice = createBasketDto.TotalPrice,
             });
             return Ok();
+
         }
         [HttpDelete("{id}")]
         public IActionResult DeleteBasket(int id)

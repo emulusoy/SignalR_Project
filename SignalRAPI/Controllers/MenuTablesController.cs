@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SignalR.BusinessLayer.Abstract;
 using SignalR.DtoLayer.MenuTableDto;
@@ -11,10 +12,11 @@ namespace SignalRAPI.Controllers
     public class MenuTablesController : ControllerBase
     {
         private readonly IMenuTableService _menuTableService;
-
-        public MenuTablesController(IMenuTableService menuTableService)
+        private readonly IMapper _mapper;
+        public MenuTablesController(IMenuTableService menuTableService, IMapper mapper)
         {
             _menuTableService = menuTableService;
+            _mapper = mapper;
         }
 
         [HttpGet("MenuTableCount")]
@@ -25,7 +27,7 @@ namespace SignalRAPI.Controllers
         [HttpGet]
         public ActionResult MenuTableList()
         {
-            var values = _menuTableService.TGetListAll();
+            var values = _mapper.Map<List<ResultMenuTableDto>>(_menuTableService.TGetListAll());
             return Ok(values);
         }
         [HttpPost]
@@ -66,6 +68,19 @@ namespace SignalRAPI.Controllers
         {
             var value = _menuTableService.TGetById(id);
             return Ok(value);
+        }
+        [HttpGet("ChangeMenuTableStatusToTrue")]
+        public IActionResult ChangeMenuTableStatusToTrue(int id)
+        {
+            _menuTableService.TChangeMenuTableStatusToTrue(id);
+            return Ok("Succesfuly");
+        }
+
+        [HttpGet("ChangeMenuTableStatusToFalse")]
+        public IActionResult ChangeMenuTableStatusToFalse(int id)
+        {
+            _menuTableService.TChangeMenuTableStatusToFalse(id);
+            return Ok("Succesfuly");
         }
     }
 }

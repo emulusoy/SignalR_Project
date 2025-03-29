@@ -5,11 +5,11 @@ using SignalRWebUI.Dtos.MenuTableDtos;
 
 namespace SignalRWebUI.Controllers
 {
-    public class MenuTableController : Controller
+    public class MenuTablesController : Controller
     {
         private readonly IHttpClientFactory _httpClientFactory;
 
-        public MenuTableController(IHttpClientFactory httpClientFactory)
+        public MenuTablesController(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
         }
@@ -23,7 +23,6 @@ namespace SignalRWebUI.Controllers
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var values = JsonConvert.DeserializeObject<List<ResultMenuTableDto>>(jsonData);
                 return View(values);
-
             }
             return View();
         }
@@ -39,7 +38,7 @@ namespace SignalRWebUI.Controllers
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(createMenuTableDto);
             StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
-            var responseMessage = await client.PostAsync($"https://localhost:7002/api/MenuTables", stringContent);
+            var responseMessage = await client.PostAsync("https://localhost:7002/api/MenuTables", stringContent);
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
@@ -82,8 +81,8 @@ namespace SignalRWebUI.Controllers
             }
             return View();
         }
-        [HttpGet]
 
+        [HttpGet]
         public async Task<IActionResult> TableListByStatus()
         {
             var client = _httpClientFactory.CreateClient();
@@ -93,10 +92,10 @@ namespace SignalRWebUI.Controllers
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var values = JsonConvert.DeserializeObject<List<ResultMenuTableDto>>(jsonData);
                 return View(values);
-
             }
             return View();
         }
+
 
     }
 }
