@@ -8,12 +8,10 @@ namespace SignalRWebUI.Controllers
     public class SocialMediaController : Controller
     {
         private readonly IHttpClientFactory _httpClientFactory;
-
         public SocialMediaController(IHttpClientFactory httpClientFactory)
         {
             _httpClientFactory = httpClientFactory;
         }
-
         public async Task<IActionResult> Index()
         {
             var client = _httpClientFactory.CreateClient();
@@ -23,7 +21,6 @@ namespace SignalRWebUI.Controllers
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var values = JsonConvert.DeserializeObject<List<ResultSocialMediaDto>>(jsonData);
                 return View(values);
-
             }
             return View();
         }
@@ -35,11 +32,10 @@ namespace SignalRWebUI.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateSocialMedia(CreateSocialMediaDto createSocialMediaDto)
         {
-
             var client = _httpClientFactory.CreateClient();
             var jsonData = JsonConvert.SerializeObject(createSocialMediaDto);
             StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
-            var responseMessage = await client.PostAsync($"https://localhost:7002/api/SocialMedia", stringContent);
+            var responseMessage = await client.PostAsync("https://localhost:7002/api/SocialMedia", stringContent);
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index");
@@ -82,5 +78,6 @@ namespace SignalRWebUI.Controllers
             }
             return View();
         }
+
     }
 }

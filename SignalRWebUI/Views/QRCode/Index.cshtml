@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">QR Code Operations</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <form method="post">
+
+                    <input type="text" name="value" />
+                    <input type="submit" value="QR Generate" class="bbtn btn-info" />
+
+                </form>
+
+                @if (ViewBag.QRCodeImage != null)
+                {
+                    <img src="@ViewBag.QRCodeImage" alt="" style="width:500px; height:500px;" />
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

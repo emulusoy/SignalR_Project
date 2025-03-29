@@ -31,29 +31,13 @@
             </div>
             <div class="col-md-4 footer-col">
                 <div class="footer_detail">
-                    <a href="" class="footer-logo">
-                        Feane
+                    <a href="/Default/Index" class="footer-logo">
+                        Ulusoy
                     </a>
                     <p>
                         Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
                     </p>
-                    <div class="footer_social">
-                        <a href="">
-                            <i class="fa fa-facebook" aria-hidden="true"></i>
-                        </a>
-                        <a href="">
-                            <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a>
-                        <a href="">
-                            <i class="fa fa-linkedin" aria-hidden="true"></i>
-                        </a>
-                        <a href="">
-                            <i class="fa fa-instagram" aria-hidden="true"></i>
-                        </a>
-                        <a href="">
-                            <i class="fa fa-pinterest" aria-hidden="true"></i>
-                        </a>
-                    </div>
+                    @await Component.InvokeAsync("_UILayoutSocialMediaComponentPartial")
                 </div>
             </div>
             <div class="col-md-4 footer-col">
@@ -64,17 +48,18 @@
                     Everyday
                 </p>
                 <p>
-                    10.00 Am -10.00 Pm
+                    10.00 Am -12.00 Pm
                 </p>
             </div>
         </div>
         <div class="footer-info">
             <p>
                 &copy; <span id="displayYear"></span> All Rights Reserved By
-                <a href="https://html.design/">Free Html Templates</a><br><br>
+                <a href="#">Mustafa Ulusoy</a><br><br>
                 &copy; <span id="displayYear"></span> Distributed By
-                <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+                <a href="#" target="_blank">Mustafa Ulusoy</a>
             </p>
         </div>
     </div>
 </footer>
+

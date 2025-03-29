@@ -81,5 +81,11 @@ namespace SignalRAPI.Controllers
             _DiscountService.TChangeStatusTrue(id);
             return Ok("Status Changed True");
         }
+        [HttpGet("GetListByStatusTrue")]
+        public ActionResult GetListByStatusTrue()
+        {
+           
+            return Ok(_DiscountService.TGetListByStatusTrue());
+        }
     }
 }

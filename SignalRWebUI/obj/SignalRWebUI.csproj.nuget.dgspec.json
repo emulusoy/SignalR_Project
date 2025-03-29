@@ -320,6 +320,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "QrCode.Net": {
+              "target": "Package",
+              "version": "[0.4.0, )"
             }
           },
           "imports": [
