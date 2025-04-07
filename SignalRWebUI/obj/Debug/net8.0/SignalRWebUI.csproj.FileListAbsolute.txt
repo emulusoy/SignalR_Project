@@ -277,7 +277,6 @@ C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\SignalR.
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\SignalR.EntityLayer.pdb
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\SignalR.DtoLayer.pdb
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\QRCoder.dll
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\Gma.QrCodeNet.Encoding.dll
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\MailKit.dll
 C:\Users\eMu\source\repos\SignalR_Project\SignalRWebUI\bin\Debug\net8.0\MimeKit.dll

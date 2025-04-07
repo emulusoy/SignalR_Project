@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.businesslayer\\concrete\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\bookingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalr.businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111742C6-B7E5-4D51-AF2E-3C7C344AD431}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\abstract\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\emu\\source\\repos\\signalr_project\\signalrwebui\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64EFD9BC-2DD7-4078-88C1-24E4AB1B0F06}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\shared\\components\\_layoutnavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,8 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingManager.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Concrete\\BookingManager.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\BookingManager.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Concrete\\BookingManager.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\BookingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:30:31.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Abstract\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:27:25.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QRCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\QRCodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T12:16:31.024Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -51,20 +102,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutNavbarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAHUAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAIBJwHUAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T15:40:23.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:40:23.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\MenuTables\\Index.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\MenuTables\\Index.cshtml",
@@ -72,12 +122,11 @@
               "RelativeToolTip": "SignalRWebUI\\Views\\MenuTables\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T15:38:55.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:38:55.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MenuTablesController.cs",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Controllers\\MenuTablesController.cs",
               "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\MenuTablesController.cs",
@@ -85,34 +134,31 @@
               "RelativeToolTip": "SignalRWebUI\\Controllers\\MenuTablesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:38:51.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:38:51.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwHYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T15:38:07.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:38:07.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CustomerTableList.cshtml",
               "DocumentMoniker": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
               "RelativeDocumentMoniker": "SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
               "ToolTip": "C:\\Users\\eMu\\source\\repos\\SignalR_Project\\SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
               "RelativeToolTip": "SignalRWebUI\\Views\\CustomerTable\\CustomerTableList.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwB8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-29T15:25:39.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T15:25:39.278Z"
             }
           ]
         }

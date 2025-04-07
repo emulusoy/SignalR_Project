@@ -25,6 +25,7 @@ namespace SignalR.BusinessLayer.Concrete
 
         public void TBookingStatusApproved(int id)
         {
+            
             _bookingDal.BookingStatusApproved(id);
         }
 
